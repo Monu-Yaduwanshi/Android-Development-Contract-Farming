@@ -1,5 +1,23 @@
 # Android-Development-Contract-Farming
+
 🌾 CropBazaar: Revolutionizing Agriculture! 🌟
+
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/f4c61552-2cbf-4835-a050-68e8ca8885c8" alt="Crop Bazaar Logo"/>
+</p>
+<p align="center">
+  <b>Farmer Marketplace for Agriculture Platform for India 🇮🇳</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-blue" />
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-orange" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-yellow" />
+  <img src="https://img.shields.io/badge/Cloud-Cloudinary-purple" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM-red" />
+</p>
+
+
 📜 Overview
 CropBazaar is an innovative platform designed to connect farmers directly with buyers, enabling secure and efficient contract farming. Our mission is to empower farmers by providing them with stable markets and fair prices for their produce, helping to reduce income uncertainties and promote economic growth. 🤝💰
 
