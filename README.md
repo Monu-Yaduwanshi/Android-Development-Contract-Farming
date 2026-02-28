@@ -1,10 +1,7 @@
-# Android-Development-Contract-Farming
 
 🌾 CropBazaar: Revolutionizing Agriculture! 🌟
 
-<p align="center">
-  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/f4c61552-2cbf-4835-a050-68e8ca8885c8" alt="Crop Bazaar Logo"/>
-</p>
+
 <p align="center">
   <b>Farmer Marketplace for Agriculture Platform for India 🇮🇳</b>
 </p>
@@ -16,6 +13,11 @@
   <img src="https://img.shields.io/badge/Cloud-Cloudinary-purple" />
   <img src="https://img.shields.io/badge/Architecture-MVVM-red" />
 </p>
+
+<p align="center">
+  <img width="500" height="500" alt="logoStatic" src="https://github.com/user-attachments/assets/f4c61552-2cbf-4835-a050-68e8ca8885c8" alt="Crop Bazaar Logo"/>
+</p>
+
 
 # 📸 CropBazaar App Screenshots
 
